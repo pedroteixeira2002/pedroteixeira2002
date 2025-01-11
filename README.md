@@ -20,6 +20,5 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroteixeira2002&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
-## GitHub Stats
-
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroteixeira2002&show_icons=true&exclude_repo=repo1,repo2&theme=radical)
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroteixeira2002&&exclude_repo=Machine-Learning-Decision-Tree-Regressor&&layout=compact&theme=radical)
