@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm pedro</h1>
+https://github.com/pedroteixeira2002/pedroteixeira2002/wiki<h1 align="center">Hi 👋, I'm pedro</h1>
 <h3 align="center">A software engineering student from Portugal.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedroteixeia2002&label=Profile%20views&color=0e75b6&style=flat" alt="pedroteixeia2002" /> </p>
@@ -16,7 +16,8 @@
  
 <div align="center">
 <p> 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀: <p>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroteixeira2002&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroteixeira2002&exclude_repo=Machine-Learning-Decision-Tree-Regressor,repo2&layout=compact&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroteixeira2002&show_icons=true&include_all_commits=true&count_private=true&theme=blueberry"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroteixeira2002&exclude_repo=Machine-Learning-Decision-Tree-Regressor,AnotherRepo,YetAnotherRepo&layout=compact&theme=blueberry"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pedroteixeira2002&theme=blueberry&hide_border=false"/>
 </div>
+
