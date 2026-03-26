@@ -2,7 +2,7 @@ https://github.com/pedroteixeira2002/pedroteixeira2002/wiki<h1 align="center">Hi
 <h3 align="center">A software engineering student from Portugal.</h3>
 
 
-![Visitor Count](https : //profile-counter.glitch.me/pedroteixeira2002/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/pedroteixeira2002/count.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedroteixeia2002&label=Profile%20views&color=0e75b6&style=flat" alt="pedroteixeia2002" /> </p>
 
