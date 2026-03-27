@@ -7,19 +7,8 @@
 
 ---
 
-## 項 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pedroteixeira2002&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=3f4970&icon_color=3f4970&text_color=3f4970&bg_color=00000000" alt="Pedro Teixeira GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroteixeira2002&layout=compact&langs_count=8&hide_border=true&title_color=3f4970&text_color=3f4970&bg_color=00000000" alt="Top Languages" />
-</div>
-
 <div align="center">
   <img height="180" src="https://streak-stats.demolab.com?user=pedroteixeira2002&hide_border=true&ring=3f4970&fire=3f4970&currStreakLabel=3f4970&sideLabels=3f4970&dates=3f4970&stroke=3f4970&background=00000000" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pedroteixeira2002&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
